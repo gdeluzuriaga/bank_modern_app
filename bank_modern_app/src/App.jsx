@@ -8,7 +8,7 @@ const App = () =>
 <div className={'${styles.boxWidth}'}>
     Navbar
 </div>
-    </div>
+        </div>
 </div>
  );
 
